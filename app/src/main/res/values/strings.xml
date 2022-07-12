@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Responsi UAS Fintech</string>
+    <string name="link">Haven\'t Account? Register <a href = ""> here</a></string>
+    <string name="link1">Forgot Password? Click <a href = ""> here  </a></string>
+</resources>
